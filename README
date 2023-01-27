@@ -1,0 +1,13 @@
+#--------------------------------------------- program stok koperasi
+program stok koperasi mengunakan bahasa c 
+
+program yang telah kita buat adalah.program yang dijalankan melalui console untuk membantu bisnis melacak dan mengelola inventaris mereka. Fitur utama dari program ini
+meliputi:
+
+1.system login
+Memintanta pengguna untuk memasukkan nama pengguna dan kata sandi mereka.
+Verifikasi bahwa nama pengguna dan kata sandi yang dimasukkan cocok dengan sekumpulan kredensial valid yang disimpan dalam senuah file.
+Jika kredensial valid, beri pengguna akses ke sistem dan arahkan mereka ke halaman atau fitur yang sesuai.
+Jika kredensial tidak valid, tampilkan pesan kesalahan dan minta pengguna untuk memasukkan kembali kredensial mereka.
+
+2.Manajemen Item: Kemampuan untuk menambah, mengedit, dan menghapus item dalam inventaris. Ini termasuk informasi seperti nama item, deskripsi, SKU, dan harga.
